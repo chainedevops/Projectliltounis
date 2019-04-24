@@ -1,4 +1,4 @@
-////
+/
 package imed;
 
 public class CalculMet {
@@ -12,11 +12,12 @@ public double produit(double a,double b) {
 		return a*b;
 	}
 
-public double soust(double a,double b) {
+public double soustract(double a,double b) {
 		
 		return a-b;
 		
-
+	
+		
 		
 	}
 		
