@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 //nouvelle branche
 package imed;
+=======
+/
+package imed;***
+>>>>>>> master
 
 public class CalculMet {
 	
