@@ -12,7 +12,7 @@ public double produit(double a,double b) {
 		return a*b;
 	}
 
-public double soust(double a,double b) {
+public double sous(double a,double b) {
 		
 		return a-b;
 		
